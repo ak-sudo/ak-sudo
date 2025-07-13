@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Kala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=00FFEE&width=600&center=true&lines=Full-Stack+MERN+Developer+💻;Turning+Ideas+Into+Reality+🚀;Building+AI-powered+Web+Apps+🤖;Open+Source+Contributor+🌐;Always+Learning+Something+New+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=1000&color=00FFEE&width=600&center=true&lines=Full-Stack+MERN+Developer+💻;Turning+Ideas+Into+Reality+🚀;Building+AI-powered+Web+Apps+🤖;Open+Source+Contributor+🌐;Always+Learning+Something+New+📚" alt="Typing SVG" />
 </p>
 
 <p align="center">
