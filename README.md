@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Akshat Kala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=1000&color=00FFEE&width=600&center=true&lines=Full-Stack+MERN+Developer+💻;Turning+Ideas+Into+Reality+🚀;Building+AI-powered+Web+Apps+🤖;Open+Source+Contributor+🌐;Always+Learning+Something+New+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=00FFEE&width=600&center=true&lines=Full-Stack+MERN+Developer+💻;Turning+Ideas+Into+Reality+🚀;Building+AI-powered+Web+Apps+🤖;Open+Source+Contributor+🌐;Always+Learning+Something+New+📚" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <em>A self-driven MERN stack developer and AI enthusiast passionate about turning ideas into impactful products.</em>
 </p>
 
+<div align="center">
 
-
+  <a href="https://github.com/ak-sudo/ak-sudo/releases/download/v1.0/AKSHAT-RESUME.pdf
+  " target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download&nbsp;Now-blue?style=for-the-badge&logo=Deutschetelekom&logoColor=white" />
+  </a>
+</div>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ak-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="akshatkala" />
   <img src="https://img.shields.io/github/followers/ak-sudo?label=Followers&style=social" alt="GitHub followers" />
