@@ -29,7 +29,7 @@
 - 🎓 B.Tech Computer Science (AI/ML) (2028)
 - 💻 Built full-stack projects: **[The Talk App](https://thetalkapp.netlify.app)** (real-time chat) and **[WeatherSit3](https://weathersit3.netlify.app)** (weather analytics)
 - 🧠 Interested in AI/ML and building intelligent systems
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/akshat706) | [Portfolio](https://akshatportfoli0.netlify.app)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/akshat706) | [Portfolio](https://akshatkala.netlify.app)
 
 ---
 
