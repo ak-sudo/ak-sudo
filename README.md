@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/ak-sudo/ak-sudo/releases/download/v1.0/AKSHAT-RESUME.pdf
+  <a href="https://github.com/ak-sudo/ak-sudo/releases/download/v1.0/RESUME-AkshatKala.pdf
   " target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download&nbsp;Now-blue?style=for-the-badge&logo=Deutschetelekom&logoColor=white" />
   </a>
